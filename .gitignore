@@ -1,0 +1,6 @@
+*.xml
+*.pro
+Rrdd/gradle/wrapper/gradle-wrapper.properties
+*.jar
+Rrdd/app/src/test/java/com/thirteenyao/rrdd/ExampleUnitTest.java
+*.properties
