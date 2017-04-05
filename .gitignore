@@ -4,3 +4,6 @@ Rrdd/gradle/wrapper/gradle-wrapper.properties
 *.jar
 Rrdd/app/src/test/java/com/thirteenyao/rrdd/ExampleUnitTest.java
 *.properties
+Rrdd/app/src/androidTest/java/com/thirteenyao/rrdd/ExampleInstrumentedTest.java
+Rrdd/gradlew
+*.bat
