@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Rrdd</string>
+    <string name="empty_warn">暂无数据，点击重试</string>
+    <string name="net_erroe">网络错误，点击重试</string>
+
+    <string name="common_ept_content">暂无数据</string>
+    <string name="common_error_retry">再试一次</string>
+    <string name="common_dialog_error_retry">重试</string>
+    <string name="common_neterror_exc">您当前的网络好像不是很好哦</string>
+    <string name="common_syserror_exc">系统出了点小问题哦~</string>
+    <string name="common_back">返回</string>
 </resources>
